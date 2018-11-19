@@ -1,0 +1,9 @@
+roi_size = 160
+steps = 30
+resize = 0.9, 1.0, 1.1
+stretch = 0.9, 1.1
+epochs = 15
+filters = 30
+kernel_size = 4
+validation_percent = 0.15
+rotation = -20, 20

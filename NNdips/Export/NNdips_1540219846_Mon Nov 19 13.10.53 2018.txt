@@ -1,0 +1,43 @@
+Plan ID = P001
+Filename = C:/Users/ga65boj/Documents/SoftwareLab_Shared/SoftwareLabNN/03_Code/NNdips/Images/Plans/1540219846.png
+Image dpi = 400
+Symbol ID(s) = 'S001', 'S002', 'S003', 'S004'
+Found symbols (total) = 33
+
+Symbol = S001
+#1 26.683cm 14.618cm One
+#2 31.61cm 14.668cm One
+#3 33.795cm 14.592cm One
+#4 35.636cm 13.373cm One
+#5 35.611cm 14.237cm One
+#6 35.636cm 13.373cm One
+#7 35.636cm 14.287cm One
+#8 42.57cm 13.83cm One
+#9 42.583cm 13.805cm two1
+#10 42.57cm 14.694cm two2
+#11 42.558cm 14.745cm One
+#12 46.291cm 13.754cm One
+#13 46.241cm 13.652cm two1
+#14 46.114cm 14.567cm two2
+#15 47.092cm 14.63cm One
+#16 48.654cm 14.783cm One
+#17 48.654cm 14.77cm One
+#18 51.981cm 14.287cm One
+#19 56.058cm 14.732cm One
+#20 62.751cm 14.668cm One
+#21 62.738cm 14.668cm One
+#22 64.287cm 13.449cm One
+#23 64.351cm 14.681cm One
+#24 66.586cm 13.271cm One
+#25 70.028cm 14.707cm One
+#26 70.917cm 13.386cm One
+#27 70.498cm 14.58cm two1
+#28 70.079cm 14.884cm two2
+#29 70.002cm 14.77cm One
+#30 70.968cm 13.335cm One
+#31 71.476cm 14.808cm One
+#32 72.339cm 13.424cm One
+#33 79.032cm 14.275cm One
+Symbol = S002
+Symbol = S003
+Symbol = S004
